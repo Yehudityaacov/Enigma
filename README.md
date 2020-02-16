@@ -1,5 +1,5 @@
 # Enigma
-A Packet Sniffer Attack Solution Imitation
+
 
 In this assignment, we will implement an exact emulator of German Army Enigma M3 machine. In the next assignment,
 we will implement this machine’s cryptanalysis, discover the
